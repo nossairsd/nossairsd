@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nossair-sedki-8ab983256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nossair.sedki.eng@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/nossairsd/nossairsd/blob/main/Software-Engineer-Nossair-SEDKI-EN.pdf" target="_blank"><img src="https://img.shields.io/badge/Résumé-EN-0e75b6?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0b3d62" alt="Resume EN" /></a>
+  <a href="https://github.com/nossairsd/nossairsd/blob/main/Software-Engineer-Nossair-SEDKI-EN.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-EN-0e75b6?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0b3d62" alt="Resume EN" /></a>
   <a href="https://github.com/nossairsd/nossairsd/blob/main/Software-Engineer-Nossair-SEDKI-FR.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-FR-1a9ad7?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0b3d62" alt="CV FR" /></a>
   <img src="https://komarev.com/ghpvc/?username=nossairsd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
